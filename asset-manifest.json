@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EftuEftu/EftuEftu-Apple-website-with-React/static/css/main.d7410909.chunk.css",
+    "main.js": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/main.6749ccd9.chunk.js",
+    "main.js.map": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/main.6749ccd9.chunk.js.map",
+    "runtime-main.js": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/runtime-main.4d3ae375.js",
+    "runtime-main.js.map": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/runtime-main.4d3ae375.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/EftuEftu/EftuEftu-Apple-website-with-React/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.4ac8470d.chunk.js": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/2.4ac8470d.chunk.js",
+    "static/js/2.4ac8470d.chunk.js.map": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/2.4ac8470d.chunk.js.map",
+    "index.html": "/EftuEftu/EftuEftu-Apple-website-with-React/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/EftuEftu/EftuEftu-Apple-website-with-React/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.d7410909.chunk.css.map": "/EftuEftu/EftuEftu-Apple-website-with-React/static/css/main.d7410909.chunk.css.map",
+    "static/js/2.4ac8470d.chunk.js.LICENSE.txt": "/EftuEftu/EftuEftu-Apple-website-with-React/static/js/2.4ac8470d.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/EftuEftu/EftuEftu-Apple-website-with-React/static/media/watch.8c1f1e97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d3ae375.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.4ac8470d.chunk.js",
+    "static/css/main.d7410909.chunk.css",
+    "static/js/main.6749ccd9.chunk.js"
+  ]
+}
